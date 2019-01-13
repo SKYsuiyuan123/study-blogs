@@ -1,7 +1,7 @@
 # study-blogs
 
 > A Vue.js project
-学习 米斯特吴 的 个人博客 Demo
+学习 米斯特吴 的 个人博客
 ## Build Setup
 
 ``` bash
